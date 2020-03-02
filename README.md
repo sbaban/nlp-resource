@@ -2,7 +2,7 @@ NLP相关学习资料
 
 欢迎大家补充
 
-提**issues**或**pull request**；
+提**issues**即可；
 
 QQ交流群**1064257696**
 
